@@ -1,8 +1,10 @@
-# React + Vite
+# Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Website Link](https://react-phoneshop-pro.netlify.app/)
 
-Currently, two official plugins are available:
+![screenshot](./src/assets/demo2.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![screenshot](./src/assets/demo3.png)
+
+![screenshot](./src/assets/demo.png)
